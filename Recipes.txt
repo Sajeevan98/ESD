@@ -8,6 +8,7 @@ rice & curry
 
 
 
+
 Egg
 meat
 
@@ -16,3 +17,7 @@ Thank you!
 
 
 done my changes
+
+
+final coppy.
+
